@@ -72,10 +72,10 @@ body{
 .bgbanner1{
     position: relative;
     background-color: #191919;
-    height: 780px;
+	height: 80vh;
 }
 
-.banner1-img img{
+.banner1-img video{
     position: absolute;
     width: 1220px;
     right: 0px;
